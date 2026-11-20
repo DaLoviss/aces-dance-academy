@@ -28,3 +28,5 @@ use the editor.
   own key and store it in Secrets.
 - **Secrets.** Lovable manages them. Do not put secret values in the repo.
 <!-- LOVABLE:END -->
+# ACES Dance Academy
+- Site-wide contact details and class schedule live in one shared file so every page stays consistent.
