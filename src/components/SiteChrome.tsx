@@ -18,7 +18,7 @@ export function Header() {
       <div className="mx-auto flex max-w-6xl items-center justify-between px-5 py-3">
         <Link to="/" className="flex items-center gap-3">
           <img src={logo} alt="ACES Dance Academy logo" className="h-12 w-12 rounded-full ring-2 ring-primary" />
-          <span className="font-display text-xl uppercase tracking-wide">ACES <span className="text-gradient">Dance</span></span>
+          <span className="font-display text-base uppercase leading-tight tracking-wide sm:text-xl">ACES <span className="text-gradient">Dance Academy</span></span>
         </Link>
         <nav className="hidden items-center gap-7 md:flex">
           {nav.map((n) => (
